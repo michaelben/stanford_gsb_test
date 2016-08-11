@@ -1,0 +1,9 @@
+1. Task 2 for wikistats.py
+    language and year are to be used as input options
+    > python wikistats.py "hillary clinton"
+
+2. Task3 for findcodes.py
+    Cosine similarity is used for string matching. Of course other metrics can used too. NLTK and scipy-learn can be used for improvement and refinement.
+    > python findcodes.py 3
+
+3. The scripts are well tested on Python 3.5.1|Anaconda 2.5.8
